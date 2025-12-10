@@ -1,3 +1,3 @@
 # Chikuwa
-I'm Chikuwa, datapacker who making datapacks with my own production.
+I'm Chikuwa who making datapacks with my own production.
 I wanted to learn Java...
