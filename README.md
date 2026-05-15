@@ -1,4 +1,4 @@
-# Chikuwa
-I'm Chikuwa who making datapacks with my own production.
-I want to make everything by myself
-I wanted to learn Java...
+<h1>Chikuwa</h1>
+<i>"自分の名前をChikwuaとよく入力ミスする狂人"</i>
+<p>マイクラのコマンドに洗脳された者。主にデータパックを作ったりしている。</p>
+<p>寄り道が多い。</p>
